@@ -14,6 +14,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+
+## About the Project
+
 This Web Application has been built using Laravel. <br>
 The Project can be found at: http://myalley.herokuapp.com/posts
 
